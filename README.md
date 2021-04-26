@@ -37,6 +37,13 @@ Podcastr is an application for listening to podcasts about programming. This pro
 
 - [Typescript](https://www.typescriptlang.org/)
 
+<div align="start">
+  <br />
+  <img src=".github/sass.png" alt="Technologies used">
+</div>
+
+- [Sass](https://sass-lang.com/)
+
 ---
 
 ## Getting started
