@@ -1,6 +1,8 @@
 ## Podcastr
 
-Podcastr is an application for listening to podcasts about programming. This project was developed during NextLevelWeek#5, presented by @Rocketseat.
+Podcastr is an application for listening to podcasts about programming. This project was developed during NextLevelWeek#5, presented by Rocketseat.
+
+---
 
 ### Home page
 
@@ -9,6 +11,9 @@ Podcastr is an application for listening to podcasts about programming. This pro
 ### Episode page
 
 ![Podcastr preview](.github/screenshot2.png)
+
+---
+
 ## Tecnologies
 
 <div align="start">
@@ -31,6 +36,8 @@ Podcastr is an application for listening to podcasts about programming. This pro
 </div>
 
 - [React.js](https://www.typescriptlang.org/)
+
+---
 
 ## Getting started
 
@@ -66,10 +73,10 @@ The application will be available at `http://localhost:3000`
 
 ### Author
 
-<div>
+<p>
     <img src="https://avatars.githubusercontent.com/u/67600534?s=400&u=f18f738419f1c958e360233276004077724791ec&v=4" width="100px;" alt="Bruno Martins"/>
     <br />
     <sub><strong>Bruno Martins da Silva</strong></sub>
-</div>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomart97/)](https://www.linkedin.com/in/brunomart97/)
