@@ -14,7 +14,7 @@ Podcastr is an application for listening to podcasts about programming. This pro
 
 ---
 
-## Tecnologies
+## Technologies
 
 <div align="start">
   <br />
