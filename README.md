@@ -1,6 +1,6 @@
 ## Podcastr
 
-Podcastr is an application for listening to podcasts about programming. This project was developed during NextLevelWeek#5, presented by Rocketseat.
+Podcastr is an application for listening to podcasts about programming. This project was developed during **[NextLevelWeek#5](https://nextlevelweek.com/)**, presented by **[Rocketseat](https://github.com/Rocketseat)**.
 
 ---
 
