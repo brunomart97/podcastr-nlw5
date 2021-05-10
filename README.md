@@ -86,4 +86,4 @@ The application will be available at `http://localhost:3000`
     <sub><strong>Bruno Martins da Silva</strong></sub>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomart97/)](https://www.linkedin.com/in/brunomart97/)
+<a href="https://www.linkedin.com/in/brunomart97" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
